@@ -6,7 +6,7 @@ export class AppService {
     return 'Hello World';
   }
   getroot():string{
-    return "FUCK YOU Marwen :p "
+    return "Hello :)  "
 
   }
 }
