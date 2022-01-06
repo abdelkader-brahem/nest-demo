@@ -28,6 +28,12 @@
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0"
   },
+  "engines": {
+    "node": "10.19.0"
+  },
+  "start:dev": "nest start --watch",
+  "start:debug": "nest start --debug --watch",
+  "start:prod": "node dist/main",
   "devDependencies": {
     "@nestjs/cli": "^8.0.0",
     "@nestjs/schematics": "^8.0.0",
