@@ -31,5 +31,5 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## DEmo 
+## Demo 
 > https://nestdemo123.herokuapp.com/root
