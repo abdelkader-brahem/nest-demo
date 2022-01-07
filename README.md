@@ -32,4 +32,4 @@ $ npm run test:cov
 ```
 
 ## Demo 
-> https://nestdemo123.herokuapp.com/root
+> https://nestdemo123.herokuapp.com/
